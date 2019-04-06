@@ -6,6 +6,13 @@ Used
 *  Editor: VS Code
 *  Language: HTML5
 
+## Project Rubric
+Apply these tags in the project "p,div, h1, b, em, and span".
+* Create HTML file
+* Use HTML tags
+* Keep it simple.
+* Use proper HTML Document structure for your code.
+
 ## Future improvements
 - CSS for style
 - Javascript for seamless UI
